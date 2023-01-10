@@ -1,0 +1,38 @@
+#best {
+  color: blueviolet;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+h1, h2 {
+  text-align: center;
+  margin-bottom: -1%;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+}
+
+h2 {
+  font-size:16px;
+}
+
+html {
+  background-color: burlywood;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.white {
+  background-color: white;
+}
+
+.choco {
+  border-image-width: 10px;
+}
