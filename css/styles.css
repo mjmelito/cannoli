@@ -1,3 +1,7 @@
+body {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 #best {
   color: blueviolet;
 }
@@ -9,30 +13,37 @@
 
 h1, h2 {
   text-align: center;
-  margin-bottom: -1%;
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+  margin: 0px;
+}
+
+.storefront {
+  width: 100%;
 }
 
 h2 {
   font-size:16px;
 }
 
+h3 {
+  background-color: white;
+  text-align: center;
+}
+
 html {
-  background-color: burlywood;
+  background-color: rgb(190, 188, 185);
 }
 
 .red {
   background-color: red;
+  color: white;
 }
 
 .green {
   background-color: green;
+  color: white;
 }
 
 .white {
   background-color: white;
 }
 
-.choco {
-  border-image-width: 10px;
-}
